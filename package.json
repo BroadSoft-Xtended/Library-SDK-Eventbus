@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "bdsft-sdk-model": "BroadSoft-Xtended/Library-SDK-Model.git",
+    "bdsft-sdk-model": "BroadSoft-Xtended/Library-SDK-Model",
     "event-emitter": "^0.3.4"
   },
   "devDependencies": {},
